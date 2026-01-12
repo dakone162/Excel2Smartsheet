@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../myapp"
+		},
+		{
+			"name": "E2S",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
